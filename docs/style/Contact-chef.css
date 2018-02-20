@@ -2,7 +2,6 @@
   width: 1105px;
   margin-left: 193px;
 }
-
 .Contact-chef__image {
   background-image: url("../images/chef.png");
   background-size: cover;
@@ -11,7 +10,6 @@
   border: none;
   float: left;
 }
-
 .Contact-chef__title {
   margin-left: 67px;
   width: 731px;
@@ -35,13 +33,11 @@
   font-size: 32px;
   text-align: left;
   color: #4a4a4a;
-
 }
-
 .Contact-chef__title_additional {
   width: 731px;
   height: 57px;
-  font-family: HelveticaNeue,sans-serif;
+  font-family: HelveticaNeue, sans-serif;
   font-size: 15px;
   font-weight: 200;
   line-height: 1.2;
@@ -49,7 +45,6 @@
   color: #4a4a4a;
   margin-top: 16px;
 }
-
 .Contact-chef__link {
   margin-top: 35px;
 }

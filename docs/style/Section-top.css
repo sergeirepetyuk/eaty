@@ -5,31 +5,30 @@
   background-size: cover;
   position: relative;
   color: white;
-
-  &__title {
-    font-family: Aller, sans-serif;
-    font-size: 45px;
-    position: relative;
-    top: 140px;
-    left: 65px;
-  }
-  &__text {
-    font-family: HelveticaNeue, sans-serif;
-    font-size: 32px;
-    position: relative;
-    top: 150px;
-    left: 65px;
-  }
-  &__button {
-    width: 177px;
-    height: 40px;
-    background-color: #ffffff;
-    border: solid 1px #979797;
-    font-family: HelveticaNeue, sans-serif;
-    font-size: 16px;
-    color: #e67a68;
-    position: relative;
-    top: 205px;
-    left: 65px;
-  }
+}
+.Section-top__title {
+  font-family: Aller, sans-serif;
+  font-size: 45px;
+  position: relative;
+  top: 140px;
+  left: 65px;
+}
+.Section-top__text {
+  font-family: HelveticaNeue, sans-serif;
+  font-size: 32px;
+  position: relative;
+  top: 150px;
+  left: 65px;
+}
+.Section-top__button {
+  width: 177px;
+  height: 40px;
+  background-color: #ffffff;
+  border: solid 1px #979797;
+  font-family: HelveticaNeue, sans-serif;
+  font-size: 16px;
+  color: #e67a68;
+  position: relative;
+  top: 205px;
+  left: 65px;
 }

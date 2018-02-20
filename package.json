@@ -17,8 +17,9 @@
     "gulp-copy": "^1.1.0",
     "i": "^0.3.6",
     "isomorphic-fetch": "^2.2.1",
-    "less": "^3.0.1",
-    "mustache": "^2.3.0"
+    "less": "^2.7.3",
+    "mustache": "^2.3.0",
+    "nmp": "^1.0.3"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
